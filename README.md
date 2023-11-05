@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nineh Truong</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif?cid=ecf05e4780cw9jto25aao4cgy682mmx1stw5kggd1hareb24&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2021/08/-13.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninehcobra&label=Profile%20views&color=0e75b6&style=flat" alt="ninehcobra" /> </p>
 
