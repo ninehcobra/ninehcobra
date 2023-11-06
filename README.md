@@ -1,6 +1,6 @@
-<div>
+
   [![MasterHead](https://i.gifer.com/fetch/w300-preview/72/72761db0e277d4acddc8e08f18a96c78.gif)](https://rishavchanda.io)
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Nineh Truong</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
