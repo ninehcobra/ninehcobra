@@ -1,5 +1,4 @@
 
-  [![MasterHead](https://i.gifer.com/fetch/w300-preview/72/72761db0e277d4acddc8e08f18a96c78.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Nineh Truong</h1>
