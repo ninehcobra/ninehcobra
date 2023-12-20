@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninehcobra&label=Profile%20views&color=0e75b6&style=flat" alt="ninehcobra" /> </p>
 
-- 🌱 I’m currently learning **React Native, Next.JS, Nest.JS**
+- 🌱 I’m currently learning **React Native, Next.JS, Node.JS**
 
 - 💬 Ask me about **react**
 
