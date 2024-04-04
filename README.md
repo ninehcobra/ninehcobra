@@ -2,15 +2,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Nineh Truong</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2021/08/-13.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninehcobra&label=Profile%20views&color=0e75b6&style=flat" alt="ninehcobra" /> </p>
 
-- 🌱 I’m currently learning **React Native, Next.JS, Node.JS**
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **congchinh2903@gmail.com**
 
