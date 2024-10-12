@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninehcobra&label=Profile%20views&color=0e75b6&style=flat" alt="ninehcobra" /> </p>
 
 
-- 📫 How to reach me **congchinh2903@gmail.com**
+- 📫 How to reach me **chinhtnc2903@gmail.com**
 
 - ⚡ Fun fact **I love making joke and love music so much**
 
